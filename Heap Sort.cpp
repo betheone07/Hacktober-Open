@@ -1,5 +1,5 @@
 // Program to perform Heap Sort in C
-#include <iostream> 
+#include <bits/stdc++.h> 
 using namespace std; 
 
 // Function to swap the the position of two elements
